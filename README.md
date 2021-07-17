@@ -4,8 +4,10 @@ This Software Captures an image by accessing video or the webcam of your system 
 
 # Softwares and packages required:
 1. Python, v3.9.6
-2. Matplotlib, v3.0.2 (to view the captured images or images that have been modified. Not required for Windows machines.) pip3 install matplotlib
-3. OpenCV, v3. 
+2. Matplotlib, v3.0.2 (to view the captured images or images that have been modified. 
+   pip3 install matplotlib
+3. OpenCV, v3.
+   pip install python3-opencv 
 
 Read the full document.
 
